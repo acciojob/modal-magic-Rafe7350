@@ -12,8 +12,7 @@
 }
 
 .modal-content {
-/*   background-color: #fefefe; */
-  background-color: green;
+  background-color: #fefefe; 
   margin: 15% auto;
   padding: 20px;
   border: 1px solid #888;
@@ -29,6 +28,8 @@
 
 .modal-title {
   margin: 0;
+	 background-color: green;
+	
 }
 
 .close-btn {
